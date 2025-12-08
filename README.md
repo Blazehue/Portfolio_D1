@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🎨 Rajat Pandey - Portfolio.
+# 🎨 Rajat Pandey - Portfolio
 
 ### 🌐 Netlify
 
